@@ -29,4 +29,4 @@ had a lot of memory issues and was forced to use ```for-loop```
 in CoLab (Python) to fetch and export the data.
 ________________________
 ## Disclaimer
-... coming soon ...
+These codes are releases as is and the Author is not responsible if packages/libraries are updated or if Google Earth Engine limits its free resources leading to the current code to break down.
